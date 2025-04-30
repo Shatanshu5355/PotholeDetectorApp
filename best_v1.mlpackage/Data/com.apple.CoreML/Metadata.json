@@ -1,0 +1,18 @@
+{
+  "MLModelVersionStringKey" : "8.3.92",
+  "MLModelDescriptionKey" : "Ultralytics YOLO11n model trained on \/root\/.cache\/kagglehub\/datasets\/shatanshur\/my-data\/versions\/1\/Final_Data_split\/data.yaml",
+  "MLModelCreatorDefinedKey" : {
+    "IoU threshold" : "0.7",
+    "Confidence threshold" : "0.25",
+    "stride" : "32",
+    "docs" : "https:\/\/docs.ultralytics.com",
+    "task" : "detect",
+    "imgsz" : "[640, 640]",
+    "date" : "2025-03-21T05:15:32.892072",
+    "args" : "{'batch': 1, 'half': False, 'int8': False, 'nms': True}",
+    "batch" : "1",
+    "names" : "{0: 'item'}"
+  },
+  "MLModelAuthorKey" : "Ultralytics",
+  "MLModelLicenseKey" : "AGPL-3.0 License (https:\/\/ultralytics.com\/license)"
+}
